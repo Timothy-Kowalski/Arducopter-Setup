@@ -1,16 +1,5 @@
 Everything here was done on an M1 mac with a crazyflie 2.1
-# Goals
-- [x] Flash Arducopter firmware to Crazyflie
-- [x] Communicate to ground station (wired)
-- [x] Connect to Crazyflie with a radio
-- [ ] Connect to Ground station by radio
-- [x] Connect Crazyflie to ground station via esp32
-- [x] Complete configuration on the methodic configurator
-- [x] Clean up the hardware
-- [x] Implement the L1 controller onto the crazyflie
-- [ ] Adapt the L1 controller to be usable as a flight mode
-- [ ] Allow positioning via bitcraze flowdeck
-# Flashing the firmware to Crazyflie
+# Flashing firmware to the Crazyflie
 - Install QGroundControl
 - Install STM32 Programmer
 - Download the Arducopter firmware for the crazyflie [firmware](https://firmware.ardupilot.org/Copter/stable-4.5.7/crazyflie2/)
